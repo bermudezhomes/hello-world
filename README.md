@@ -1,2 +1,2 @@
 # hello-world
-My Hello World Repo
+Welcome to Computer Programming!
